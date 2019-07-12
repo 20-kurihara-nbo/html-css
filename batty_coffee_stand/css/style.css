@@ -73,3 +73,7 @@ header {
     wight: 300px;
     float: left;
 }
+
+.information-list li {
+    margin-bottom: 10px;
+}
