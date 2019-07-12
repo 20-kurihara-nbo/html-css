@@ -62,3 +62,14 @@ header {
     margin-bottom: 20px;
     background-color: #fff;
 }
+
+.left-contents {
+    width: 600px;
+    margin-right: 20px;
+    float: left;
+}
+
+.right-contents {
+    wight: 300px;
+    float: left;
+}
